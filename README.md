@@ -1,4 +1,4 @@
-# notes-on-operating-systems
+# Notes on Operating Systems
 From my OS course at GSW.
 
 Deadlocks can arise if 4 conditions hold simultaneously.
@@ -35,6 +35,7 @@ How are files loaded/opened? When you click on a file the OS allocates the neces
 
 | CPU | GPU |
 | --- | --- |
-| A few powerful cores | Thousands of smaller, efficient cores which creates high throughput
-| Sequential procesing | Parallel processing
-| RAM | VRAM
+| A few powerful cores | Thousands of smaller, efficient cores which creates high throughput|
+| Sequential procesing | Parallel processing |
+| RAM | VRAM |
+| Diverse asks and operating systems | Visual calcluations, gaming, AI tasks |
