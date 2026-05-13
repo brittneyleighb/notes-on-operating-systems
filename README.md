@@ -24,12 +24,14 @@ Step 1: Calculate need
 3. Available = Available + Allocation[i]
 4. Repeat
 
-kernel = the core of the OS; manages resources and proceses
-user space - where user applications and processes execute
-Power-On Self-Test (POST) = This is what happens first when the computer is turned on. It checks to see if all hardware components are functioning correclty before the operating system begins to load.
-Central Processing Unit (CPU) = The brain of the computer.
+Terms:
+- kernel = the core of the OS; manages resources and proceses
+- user space - where user applications and processes execute
+- Power-On Self-Test (POST) = This is what happens first when the computer is turned on. It checks to see if all hardware components are functioning correclty before the operating system begins to load.
+- Central Processing Unit (CPU) = The brain of the computer.
+- Graphical User Interface (GUI) = Often called a "desktop environment."
+
 POST --> hard disk/solid-state drive --> bootloader --> RAM
-Graphical User Interface (GUI) = Often called a "desktop environment."
 
 How are files loaded/opened? When you click on a file the OS allocates the necessary resources and then loads the program into memory, telling the CPU to start to executing.
 
