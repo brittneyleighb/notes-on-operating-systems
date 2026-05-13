@@ -40,4 +40,4 @@ How are files loaded/opened? When you click on a file the OS allocates the neces
 | A few powerful cores | Thousands of smaller, efficient cores which creates high throughput|
 | Sequential procesing | Parallel processing |
 | RAM | VRAM |
-| Diverse asks and operating systems | Visual calcluations, gaming, AI tasks |
+| Diverse asks and operating systems | Visual calculations, gaming, AI tasks |
